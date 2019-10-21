@@ -1,0 +1,2 @@
+# LombokGenerator
+使用插件时mybatis插件生成的实体类支持lombok格式
